@@ -1,1 +1,1 @@
-# 🌻 ESLin
+# 🌻 ESLint/Prett
