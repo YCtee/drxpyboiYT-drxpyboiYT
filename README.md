@@ -1,1 +1,1 @@
-# 🌻 ESLint/Prett
+# 🌻 ESLint/Prettier +
