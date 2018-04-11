@@ -1,1 +1,1 @@
-# 🌻 ESLint/Prettier + Airbnb
+# 🌻 ESLint/Prettier + Airbnb's Style
