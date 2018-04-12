@@ -1,1 +1,1 @@
-# 🌻 ESLint/Prettier + Airbnb's Style Guide for Rea
+# 🌻 ESLint/Prettier + Airbnb's Style Guide for React Apps
