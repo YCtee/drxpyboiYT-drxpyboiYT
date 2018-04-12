@@ -1,1 +1,1 @@
-# 🌻 ESLint/Prettier + Airbnb's Style Guid
+# 🌻 ESLint/Prettier + Airbnb's Style Guide for Rea
