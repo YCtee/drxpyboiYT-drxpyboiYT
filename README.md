@@ -1,3 +1,3 @@
 # 🌻 ESLint/Prettier + Airbnb's Style Guide for React Apps
 
-![visitors](https://visito
+![visitors](https://visitor-badge.gli
