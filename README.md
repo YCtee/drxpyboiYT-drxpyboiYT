@@ -2,4 +2,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand/eslint-prettier-airbnb-react) 
 
-My ESLint
+My ESLint/Prett
