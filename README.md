@@ -4,4 +4,4 @@
 
 My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's Style Guide.
 
-#
+## Inst
