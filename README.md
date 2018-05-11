@@ -6,4 +6,4 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
 
 ## Installation
 
-1. Naviga
+1. Navigate to yo
