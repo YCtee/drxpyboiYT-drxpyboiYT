@@ -11,3 +11,5 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
    ```bash
    cd my-app
    ```
+
+2. 
