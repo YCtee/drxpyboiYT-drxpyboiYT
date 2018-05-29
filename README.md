@@ -12,4 +12,4 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
    cd my-app
    ```
 
-2. Run this command inside your 
+2. Run this command inside your app'
