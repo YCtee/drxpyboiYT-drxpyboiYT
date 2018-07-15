@@ -12,4 +12,6 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
    cd my-app
    ```
 
-2. Run this command inside your app's root directory. Note: this command executes the `eslint-prettier-config.sh` bash script without needing to clone the whole repo to your local machine
+2. Run this command inside your app's root directory. Note: this command executes the `eslint-prettier-config.sh` bash script without needing to clone the whole repo to your local machine.
+
+   ```bas
