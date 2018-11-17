@@ -18,4 +18,4 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
    exec 3<&1;bash <&3 <(curl https://raw.githubusercontent.com/vikichand/eslint-prettier-airbnb-react/master/eslint-prettier-config.sh 2> /dev/null)
    ```
 
-3. In your project's root directory notice the two newly added
+3. In your project's root directory notice the two newly added/update
