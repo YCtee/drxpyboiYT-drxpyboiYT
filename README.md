@@ -19,4 +19,4 @@ My ESLint/Prettier configurations for JavaScript projects (React) with Airbnb's 
    ```
 
 3. In your project's root directory notice the two newly added/updated config files:
-   * `.eslintrc.js` (or `.esli
+   * `.eslintrc.js` (or `.eslintrc.
