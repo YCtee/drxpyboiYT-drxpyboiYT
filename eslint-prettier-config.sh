@@ -10,4 +10,5 @@ LCYAN='\033[1;36m'
 NC='\033[0m' # No Color
 
 # --------------------------------------
-# Configuration pref
+# Configuration preferences
+#
