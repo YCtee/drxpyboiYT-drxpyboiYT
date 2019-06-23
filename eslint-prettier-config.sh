@@ -13,4 +13,4 @@ NC='\033[0m' # No Color
 # Configuration preferences
 # --------------------------------------
 echo
-ech
+echo -e "
