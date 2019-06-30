@@ -13,4 +13,4 @@ NC='\033[0m' # No Color
 # Configuration preferences
 # --------------------------------------
 echo
-echo -e "${GREEN}Configur
+echo -e "${GREEN}Configuration p
