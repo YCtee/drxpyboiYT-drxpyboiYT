@@ -14,4 +14,4 @@ NC='\033[0m' # No Color
 # --------------------------------------
 echo
 echo -e "${GREEN}Configuration preferences!${NC}"
-echo -e "${GREEN}Happy coding! -
+echo -e "${GREEN}Happy coding! - Vika
