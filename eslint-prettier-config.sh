@@ -15,3 +15,5 @@ NC='\033[0m' # No Color
 echo
 echo -e "${GREEN}Configuration preferences!${NC}"
 echo -e "${GREEN}Happy coding! - Vikash${NC}"
+echo
+
