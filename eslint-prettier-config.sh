@@ -19,4 +19,4 @@ echo
 
 # Package Manager
 echo
-ech
+echo -e "${LCY
