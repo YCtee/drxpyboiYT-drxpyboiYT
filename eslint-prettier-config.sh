@@ -17,4 +17,5 @@ echo -e "${GREEN}Configuration preferences!${NC}"
 echo -e "${GREEN}Happy coding! - Vikash${NC}"
 echo
 
-# Package Man
+# Package Manager
+echo
