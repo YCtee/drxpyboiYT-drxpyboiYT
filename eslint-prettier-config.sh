@@ -19,4 +19,4 @@ echo
 
 # Package Manager
 echo
-echo -e "${LCY
+echo -e "${LCYAN}Whic
