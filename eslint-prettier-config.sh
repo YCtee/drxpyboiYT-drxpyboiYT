@@ -19,4 +19,4 @@ echo
 
 # Package Manager
 echo
-echo -e "${LCYAN}Whic
+echo -e "${LCYAN}Which pack
