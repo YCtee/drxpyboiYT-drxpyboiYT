@@ -19,4 +19,5 @@ echo
 
 # Package Manager
 echo
-echo -e "${LCYAN}Which package manager are you using? ${NC}
+echo -e "${LCYAN}Which package manager are you using? ${NC}"
+sel
