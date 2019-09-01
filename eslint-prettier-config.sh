@@ -20,4 +20,4 @@ echo
 # Package Manager
 echo
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
-select package_comma
+select package_command_
