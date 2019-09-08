@@ -20,4 +20,4 @@ echo
 # Package Manager
 echo
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
-select package_command_choices in "Yarn" "npm" "Can
+select package_command_choices in "Yarn" "npm" "Cancel
