@@ -21,4 +21,4 @@ echo
 echo
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
 select package_command_choices in "Yarn" "npm" "Cancel"; do
-  case $package_com
+  case $package_command
