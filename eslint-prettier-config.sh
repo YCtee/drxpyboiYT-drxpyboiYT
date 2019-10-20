@@ -22,4 +22,5 @@ echo
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
 select package_command_choices in "Yarn" "npm" "Cancel"; do
   case $package_command_choices in
-    Yarn ) pkg_cmd='yarn add'; break;
+    Yarn ) pkg_cmd='yarn add'; break;;
+    n
