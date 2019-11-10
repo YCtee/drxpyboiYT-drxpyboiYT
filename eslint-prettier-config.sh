@@ -25,4 +25,4 @@ select package_command_choices in "Yarn" "npm" "Cancel"; do
     Yarn ) pkg_cmd='yarn add'; break;;
     npm ) pkg_cmd='npm install'; break;;
     Cancel ) exit;;
-  es
+  esac
