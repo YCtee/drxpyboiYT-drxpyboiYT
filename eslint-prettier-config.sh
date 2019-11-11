@@ -26,3 +26,5 @@ select package_command_choices in "Yarn" "npm" "Cancel"; do
     npm ) pkg_cmd='npm install'; break;;
     Cancel ) exit;;
   esac
+done
+ec
