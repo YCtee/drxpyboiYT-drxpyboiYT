@@ -27,4 +27,6 @@ select package_command_choices in "Yarn" "npm" "Cancel"; do
     Cancel ) exit;;
   esac
 done
-ec
+echo
+
+# Fil
