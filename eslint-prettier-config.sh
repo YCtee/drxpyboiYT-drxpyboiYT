@@ -30,4 +30,4 @@ done
 echo
 
 # File Format
-echo "Which ESLint and Prettier co
+echo "Which ESLint and Prettier configurat
