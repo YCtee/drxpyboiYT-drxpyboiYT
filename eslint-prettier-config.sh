@@ -30,4 +30,4 @@ done
 echo
 
 # File Format
-echo "Which ESLint and Prettier configuration format do y
+echo "Which ESLint and Prettier configuration format do you prefer
