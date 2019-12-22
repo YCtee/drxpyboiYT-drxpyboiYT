@@ -31,4 +31,4 @@ echo
 
 # File Format
 echo "Which ESLint and Prettier configuration format do you prefer?"
-echo -e "${LCYAN}Which package manager are you usin
+echo -e "${LCYAN}Which package manager are you using? ${
