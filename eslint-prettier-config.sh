@@ -32,4 +32,4 @@ echo
 # File Format
 echo "Which ESLint and Prettier configuration format do you prefer?"
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
-select config_extension 
+select config_extension in 
