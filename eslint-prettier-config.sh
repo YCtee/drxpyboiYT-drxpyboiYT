@@ -34,4 +34,4 @@ echo "Which ESLint and Prettier configuration format do you prefer?"
 echo -e "${LCYAN}Which package manager are you using? ${NC}"
 select config_extension in ".js" ".json" "Cancel"; do
   case $config_extension in
-    .js ) config_opening='module.expo
+    .js ) config_opening='module.exports = {';
