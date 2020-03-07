@@ -39,3 +39,6 @@ select config_extension in ".js" ".json" "Cancel"; do
     Cancel ) exit;;
   esac
 done
+echo
+
+#
