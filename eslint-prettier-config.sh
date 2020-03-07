@@ -37,4 +37,5 @@ select config_extension in ".js" ".json" "Cancel"; do
     .js ) config_opening='module.exports = {'; break;;
     .json ) config_opening='{'; break;;
     Cancel ) exit;;
-  esa
+  esac
+done
