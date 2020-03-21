@@ -41,4 +41,4 @@ select config_extension in ".js" ".json" "Cancel"; do
 done
 echo
 
-# Checks for existing es
+# Checks for existing eslintrc fi
