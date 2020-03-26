@@ -42,4 +42,4 @@ done
 echo
 
 # Checks for existing eslintrc files
-if [ -f ".esli
+if [ -f ".eslintrc.j
