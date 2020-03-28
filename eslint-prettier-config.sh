@@ -42,4 +42,4 @@ done
 echo
 
 # Checks for existing eslintrc files
-if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml
+if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f "
