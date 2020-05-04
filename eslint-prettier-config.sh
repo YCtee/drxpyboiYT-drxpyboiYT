@@ -45,4 +45,5 @@ echo
 if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".eslintrc.json" -o -f ".eslintrc" ]; then
   echo -e "${RED}Existing ESLint config file(s) found:${NC}"
   ls -a .eslint* | xargs -n 1 basename
-  ec
+  echo
+  e
