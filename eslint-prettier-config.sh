@@ -46,4 +46,4 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   echo -e "${RED}Existing ESLint config file(s) found:${NC}"
   ls -a .eslint* | xargs -n 1 basename
   echo
-  echo -e "${RE
+  echo -e "${RED}CAUTIO
