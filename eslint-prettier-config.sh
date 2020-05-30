@@ -46,4 +46,4 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   echo -e "${RED}Existing ESLint config file(s) found:${NC}"
   ls -a .eslint* | xargs -n 1 basename
   echo
-  echo -e "${RED}CAUTION:${NC} there is loading priority when more than one config file is present: https://es
+  echo -e "${RED}CAUTION:${NC} there is loading priority when more than one config file is present: https://eslint.or
