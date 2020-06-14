@@ -48,4 +48,5 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   echo
   echo -e "${RED}CAUTION:${NC} there is loading priority when more than one config file is present: https://eslint.org/docs/user-guide/configuring#configuration-file-formats"
   echo
-  read -p  "${LCYAN}Write .eslintrc${config_extension} (Y/n)? ${NC}
+  read -p  "${LCYAN}Write .eslintrc${config_extension} (Y/n)? ${NC}"
+  if [[ 
