@@ -50,4 +50,4 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   echo
   read -p  "${LCYAN}Write .eslintrc${config_extension} (Y/n)? ${NC}"
   if [[ $REPLY =~ ^[Nn]$ ]]; then
-    echo -e
+    echo -e "${YE
