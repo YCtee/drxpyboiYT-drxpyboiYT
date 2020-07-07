@@ -51,4 +51,4 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   read -p  "${LCYAN}Write .eslintrc${config_extension} (Y/n)? ${NC}"
   if [[ $REPLY =~ ^[Nn]$ ]]; then
     echo -e "${YELLOW}>>>>> Skipping ESLint config${NC}"
-    skip_eslint_set
+    skip_eslint_setup="tru
