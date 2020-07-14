@@ -54,4 +54,4 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
     skip_eslint_setup="true"
   fi
 fi
-finished
+finished=f
