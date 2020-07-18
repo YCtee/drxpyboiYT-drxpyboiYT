@@ -55,3 +55,5 @@ if [ -f ".eslintrc.js" -o -f ".eslintrc.yaml" -o -f ".eslintrc.yml" -o -f ".esli
   fi
 fi
 finished=false
+
+# Max
