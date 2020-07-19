@@ -57,4 +57,4 @@ fi
 finished=false
 
 # Max Line Length
-w
+while ! $
