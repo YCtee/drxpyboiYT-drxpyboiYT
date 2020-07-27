@@ -58,3 +58,4 @@ finished=false
 
 # Max Line Length
 while ! $finished; do
+  read -
