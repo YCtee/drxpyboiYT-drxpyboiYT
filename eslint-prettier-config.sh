@@ -58,4 +58,4 @@ finished=false
 
 # Max Line Length
 while ! $finished; do
-  read -p "${LCY
+  read -p "${LCYAN}Wha
