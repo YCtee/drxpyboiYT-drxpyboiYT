@@ -58,4 +58,4 @@ finished=false
 
 # Max Line Length
 while ! $finished; do
-  read -p "${LCYAN}What max line le
+  read -p "${LCYAN}What max line length do
