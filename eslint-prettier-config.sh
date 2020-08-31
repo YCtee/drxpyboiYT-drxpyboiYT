@@ -58,4 +58,4 @@ finished=false
 
 # Max Line Length
 while ! $finished; do
-  read -p "${LCYAN}What max line length do you want to set for ESLi
+  read -p "${LCYAN}What max line length do you want to set for ESLint and Pret
