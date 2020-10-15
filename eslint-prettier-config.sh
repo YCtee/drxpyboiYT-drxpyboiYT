@@ -59,4 +59,4 @@ finished=false
 # Max Line Length
 while ! $finished; do
   read -p "${LCYAN}What max line length do you want to set for ESLint and Prettier? (Recommendation: 100) ${NC}"
-  if [[ $REPLY
+  if [[ $REPLY =~ ^[0
