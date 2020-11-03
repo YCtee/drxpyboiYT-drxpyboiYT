@@ -60,4 +60,5 @@ finished=false
 while ! $finished; do
   read -p "${LCYAN}What max line length do you want to set for ESLint and Prettier? (Recommendation: 100) ${NC}"
   if [[ $REPLY =~ ^[0-9]{2,3}$ ]]; then
-    max_len_val=$REP
+    max_len_val=$REPLY
+    fin
