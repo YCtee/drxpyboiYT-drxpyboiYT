@@ -62,4 +62,4 @@ while ! $finished; do
   if [[ $REPLY =~ ^[0-9]{2,3}$ ]]; then
     max_len_val=$REPLY
     finished=true
- 
+    echo
