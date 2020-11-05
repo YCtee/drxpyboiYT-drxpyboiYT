@@ -63,3 +63,5 @@ while ! $finished; do
     max_len_val=$REPLY
     finished=true
     echo
+  else
+  
