@@ -64,4 +64,4 @@ while ! $finished; do
     finished=true
     echo
   else
-    echo -
+    echo -e "${Y
