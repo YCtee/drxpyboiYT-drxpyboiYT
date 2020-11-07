@@ -64,4 +64,4 @@ while ! $finished; do
     finished=true
     echo
   else
-    echo -e "${YELLOW}P
+    echo -e "${YELLOW}Please 
