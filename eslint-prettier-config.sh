@@ -65,3 +65,5 @@ while ! $finished; do
     echo
   else
     echo -e "${YELLOW}Please choose a max length of two or three digits, e.g. 80 or 100 or 120${NC}"
+  fi
+d
