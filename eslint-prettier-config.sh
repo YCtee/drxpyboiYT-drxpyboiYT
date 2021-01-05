@@ -69,4 +69,4 @@ while ! $finished; do
 done
 
 # Trailing Commas
-echo "${LCY
+echo "${LCYAN}What
