@@ -68,4 +68,5 @@ while ! $finished; do
   fi
 done
 
-# Trailing Comma
+# Trailing Commas
+echo "${
