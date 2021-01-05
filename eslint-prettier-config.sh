@@ -68,4 +68,4 @@ while ! $finished; do
   fi
 done
 
-# Trail
+# Trailing Comma
