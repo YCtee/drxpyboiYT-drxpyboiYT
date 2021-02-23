@@ -69,4 +69,4 @@ while ! $finished; do
 done
 
 # Trailing Commas
-echo "${LCYAN}What style of trailing commas
+echo "${LCYAN}What style of trailing commas do you 
