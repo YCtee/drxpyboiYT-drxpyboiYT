@@ -69,4 +69,5 @@ while ! $finished; do
 done
 
 # Trailing Commas
-echo "${LCYAN}What style of trailing commas do you want to enforce with Prettier? $
+echo "${LCYAN}What style of trailing commas do you want to enforce with Prettier? ${NC}"
+e
