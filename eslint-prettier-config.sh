@@ -71,4 +71,4 @@ done
 # Trailing Commas
 echo "${LCYAN}What style of trailing commas do you want to enforce with Prettier? ${NC}"
 echo -e "${YELLOW}>>>>> See https://prettier.io/docs/en/options.html#trailing-commas for more details.${NC}"
-select tr
+select trailing_com
