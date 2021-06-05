@@ -72,4 +72,4 @@ done
 echo "${LCYAN}What style of trailing commas do you want to enforce with Prettier? ${NC}"
 echo -e "${YELLOW}>>>>> See https://prettier.io/docs/en/options.html#trailing-commas for more details.${NC}"
 select trailing_comma_pref in "none" "es5" "all"; do
-  case $trailing
+  case $trailing_comma_p
