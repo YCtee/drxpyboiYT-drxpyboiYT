@@ -74,4 +74,4 @@ echo -e "${YELLOW}>>>>> See https://prettier.io/docs/en/options.html#trailing-co
 select trailing_comma_pref in "none" "es5" "all"; do
   case $trailing_comma_pref in
     "None" ) break;;
-    "ES
+    "ES5" ) brea
