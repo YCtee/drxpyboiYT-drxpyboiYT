@@ -75,4 +75,6 @@ select trailing_comma_pref in "none" "es5" "all"; do
   case $trailing_comma_pref in
     "None" ) break;;
     "ES5" ) break;;
-    "All" ) break
+    "All" ) break;;
+  esac
+d
