@@ -77,4 +77,7 @@ select trailing_comma_pref in "none" "es5" "all"; do
     "ES5" ) break;;
     "All" ) break;;
   esac
-d
+done
+echo
+
+# ---
