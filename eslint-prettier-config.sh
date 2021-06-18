@@ -80,4 +80,4 @@ select trailing_comma_pref in "none" "es5" "all"; do
 done
 echo
 
-# ---
+# -----------
