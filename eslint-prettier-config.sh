@@ -81,4 +81,5 @@ done
 echo
 
 # ----------------------
-# Perform Configura
+# Perform Configuration
+# --
