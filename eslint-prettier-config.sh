@@ -84,4 +84,4 @@ echo
 # Perform Configuration
 # ----------------------
 echo
-ec
+echo -e "
