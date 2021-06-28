@@ -84,3 +84,4 @@ echo
 # Perform Configuration
 # ----------------------
 echo
+ec
