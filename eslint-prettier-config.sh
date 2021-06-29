@@ -84,4 +84,6 @@ echo
 # Perform Configuration
 # ----------------------
 echo
-echo -e "${GREEN}Configuring your development environment.
+echo -e "${GREEN}Configuring your development environment... ${NC}"
+
+e
