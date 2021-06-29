@@ -84,4 +84,4 @@ echo
 # Perform Configuration
 # ----------------------
 echo
-echo -e "${GREEN}Configuring your
+echo -e "${GREEN}Configuring your develo
