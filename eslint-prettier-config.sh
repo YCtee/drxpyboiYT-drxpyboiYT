@@ -84,4 +84,4 @@ echo
 # Perform Configuration
 # ----------------------
 echo
-echo -e "${GREEN}C
+echo -e "${GREEN}Configur
