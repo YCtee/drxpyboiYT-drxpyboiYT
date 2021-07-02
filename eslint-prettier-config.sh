@@ -87,4 +87,4 @@ echo
 echo -e "${GREEN}Configuring your development environment... ${NC}"
 
 echo
-echo -e "
+echo -e "1/4 ${L
