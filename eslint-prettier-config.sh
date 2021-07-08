@@ -87,4 +87,4 @@ echo
 echo -e "${GREEN}Configuring your development environment... ${NC}"
 
 echo
-echo -e "1/4 ${LCYAN}ESLint & Prettier Install
+echo -e "1/4 ${LCYAN}ESLint & Prettier Installation... ${N
