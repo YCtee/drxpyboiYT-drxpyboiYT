@@ -91,3 +91,4 @@ echo -e "1/4 ${LCYAN}ESLint & Prettier Installation... ${NC}"
 echo
 $pkg_cmd -D eslint prettier eslint-plugin-react-hooks
 
+echo
