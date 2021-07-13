@@ -92,4 +92,4 @@ echo
 $pkg_cmd -D eslint prettier eslint-plugin-react-hooks
 
 echo
-echo -
+echo -e "2
