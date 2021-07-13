@@ -89,4 +89,5 @@ echo -e "${GREEN}Configuring your development environment... ${NC}"
 echo
 echo -e "1/4 ${LCYAN}ESLint & Prettier Installation... ${NC}"
 echo
-$pkg_cmd -D eslint prettier eslint-plugin-reac
+$pkg_cmd -D eslint prettier eslint-plugin-react-hooks
+
