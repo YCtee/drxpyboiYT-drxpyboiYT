@@ -92,4 +92,4 @@ echo
 $pkg_cmd -D eslint prettier eslint-plugin-react-hooks
 
 echo
-echo -e "2/4 ${YELLOW}Conforming to Ai
+echo -e "2/4 ${YELLOW}Conforming to Airbn
