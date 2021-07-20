@@ -94,4 +94,4 @@ $pkg_cmd -D eslint prettier eslint-plugin-react-hooks
 echo
 echo -e "2/4 ${YELLOW}Conforming to Airbnb's JavaScript Style Guide... ${NC}"
 echo
-$
+$pkg_cm
