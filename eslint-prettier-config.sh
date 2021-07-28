@@ -97,4 +97,4 @@ echo
 $pkg_cmd -D eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-import eslint-plugin-react babel-eslint
 
 echo
-echo -e "3/4 ${LCYAN}Making 
+echo -e "3/4 ${LCYAN}Making ESlin
