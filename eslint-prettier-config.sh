@@ -98,4 +98,4 @@ $pkg_cmd -D eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-import esl
 
 echo
 echo -e "3/4 ${LCYAN}Making ESlint and Prettier play nice with each other... ${NC}"
-echo "See https:
+echo "See https://githu
