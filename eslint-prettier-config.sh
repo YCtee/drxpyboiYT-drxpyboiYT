@@ -103,4 +103,4 @@ echo
 $pkg_cmd -D eslint-config-prettier eslint-plugin-prettier
 
 
-if [ "$sk
+if [ "$skip_esli
