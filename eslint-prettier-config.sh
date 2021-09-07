@@ -103,4 +103,5 @@ echo
 $pkg_cmd -D eslint-config-prettier eslint-plugin-prettier
 
 
-if [ "$skip_eslint_setup" == "true" ]; t
+if [ "$skip_eslint_setup" == "true" ]; then
+  
