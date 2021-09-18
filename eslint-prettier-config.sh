@@ -107,4 +107,4 @@ if [ "$skip_eslint_setup" == "true" ]; then
   break
 else
   echo
-  echo -e "4/4 ${YELLOW}Building your .eslintrc${con
+  echo -e "4/4 ${YELLOW}Building your .eslintrc${config_exten
