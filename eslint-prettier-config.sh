@@ -107,3 +107,4 @@ if [ "$skip_eslint_setup" == "true" ]; then
   break
 else
   echo
+  echo -
