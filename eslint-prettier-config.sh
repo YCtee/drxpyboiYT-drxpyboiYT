@@ -107,4 +107,5 @@ if [ "$skip_eslint_setup" == "true" ]; then
   break
 else
   echo
-  echo -e "4/4 ${YELLOW}Building your .eslintrc${config_extension} file...${N
+  echo -e "4/4 ${YELLOW}Building your .eslintrc${config_extension} file...${NC}"
+  >
