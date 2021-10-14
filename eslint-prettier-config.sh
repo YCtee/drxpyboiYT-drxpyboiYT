@@ -110,4 +110,4 @@ else
   echo -e "4/4 ${YELLOW}Building your .eslintrc${config_extension} file...${NC}"
   > ".eslintrc${config_extension}" # truncates existing file (or creates empty)
 
-  echo ${config_o
+  echo ${config_opening}'
