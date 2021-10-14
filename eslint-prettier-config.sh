@@ -112,4 +112,4 @@ else
 
   echo ${config_opening}'
   "extends": [
-    
+    "ai
