@@ -113,4 +113,5 @@ else
   echo ${config_opening}'
   "extends": [
     "airbnb",
-    "prettier
+    "prettier",
+  
