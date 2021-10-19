@@ -114,4 +114,4 @@ else
   "extends": [
     "airbnb",
     "prettier",
-    "plugin:jsx-
+    "plugin:jsx-a11y/
