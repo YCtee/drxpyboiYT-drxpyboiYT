@@ -115,4 +115,4 @@ else
     "airbnb",
     "prettier",
     "plugin:jsx-a11y/recommended",
-    "plugin:react-h
+    "plugin:react-hooks/re
