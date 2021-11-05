@@ -117,4 +117,4 @@ else
     "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended"
   ],
-  "parser
+  "parser": "bab
