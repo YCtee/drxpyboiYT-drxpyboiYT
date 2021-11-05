@@ -117,4 +117,5 @@ else
     "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended"
   ],
-  "parser": "babel-e
+  "parser": "babel-eslint",
+ 
