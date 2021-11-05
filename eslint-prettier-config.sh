@@ -118,4 +118,4 @@ else
     "plugin:react-hooks/recommended"
   ],
   "parser": "babel-eslint",
-  "parserOptio
+  "parserOptions": {
