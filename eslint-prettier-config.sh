@@ -119,3 +119,4 @@ else
   ],
   "parser": "babel-eslint",
   "parserOptions": {
+    "ec
