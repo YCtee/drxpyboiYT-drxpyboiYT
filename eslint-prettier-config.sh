@@ -119,4 +119,5 @@ else
   ],
   "parser": "babel-eslint",
   "parserOptions": {
-    "ecmaVers
+    "ecmaVersion": 8,
+  
