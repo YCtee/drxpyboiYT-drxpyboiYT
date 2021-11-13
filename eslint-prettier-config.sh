@@ -120,4 +120,4 @@ else
   "parser": "babel-eslint",
   "parserOptions": {
     "ecmaVersion": 8,
-  
+    "ecm
