@@ -122,4 +122,4 @@ else
     "ecmaVersion": 8,
     "ecmaFeatures": {
       "experimentalObjectRestSpread": true,
-      "impliedStrict"
+      "impliedStrict": 
