@@ -121,4 +121,4 @@ else
   "parserOptions": {
     "ecmaVersion": 8,
     "ecmaFeatures": {
-      "experimentalObjectRestSpread
+      "experimentalObjectRestSpread": true,
