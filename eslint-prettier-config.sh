@@ -123,4 +123,5 @@ else
     "ecmaFeatures": {
       "experimentalObjectRestSpread": true,
       "impliedStrict": true,
-      "classes": tru
+      "classes": true
+   
