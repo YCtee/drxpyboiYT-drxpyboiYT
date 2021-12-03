@@ -124,4 +124,5 @@ else
       "experimentalObjectRestSpread": true,
       "impliedStrict": true,
       "classes": true
-   
+    }
+ 
