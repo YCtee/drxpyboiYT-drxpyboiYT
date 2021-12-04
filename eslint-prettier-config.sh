@@ -125,4 +125,5 @@ else
       "impliedStrict": true,
       "classes": true
     }
+  },
  
