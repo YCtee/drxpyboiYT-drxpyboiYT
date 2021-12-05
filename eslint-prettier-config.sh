@@ -127,4 +127,5 @@ else
     }
   },
   "env": {
-    "browser": t
+    "browser": true,
+ 
