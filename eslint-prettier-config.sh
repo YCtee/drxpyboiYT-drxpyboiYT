@@ -128,4 +128,4 @@ else
   },
   "env": {
     "browser": true,
- 
+    "node
