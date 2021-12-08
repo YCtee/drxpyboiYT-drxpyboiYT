@@ -128,4 +128,5 @@ else
   },
   "env": {
     "browser": true,
-    "node": tru
+    "node": true,
+   
