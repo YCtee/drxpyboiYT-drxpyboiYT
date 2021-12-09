@@ -129,4 +129,4 @@ else
   "env": {
     "browser": true,
     "node": true,
-    "jque
+    "jquery": tru
