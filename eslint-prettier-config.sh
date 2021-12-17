@@ -132,3 +132,4 @@ else
     "jquery": true,
     "jest": true
   },
+  "ru
