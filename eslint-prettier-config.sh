@@ -133,4 +133,4 @@ else
     "jest": true
   },
   "rules": {
-    "react-ho
+    "react-hooks/rules-of
