@@ -130,4 +130,5 @@ else
     "browser": true,
     "node": true,
     "jquery": true,
-    "jest": tr
+    "jest": true
+ 
