@@ -131,4 +131,4 @@ else
     "node": true,
     "jquery": true,
     "jest": true
- 
+  },
