@@ -133,4 +133,5 @@ else
     "jest": true
   },
   "rules": {
-    "react-hooks/rules-of-hooks": "error
+    "react-hooks/rules-of-hooks": "error",
+    
