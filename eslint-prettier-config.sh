@@ -134,4 +134,4 @@ else
   },
   "rules": {
     "react-hooks/rules-of-hooks": "error",
-    "no-de
+    "no-debugger"
