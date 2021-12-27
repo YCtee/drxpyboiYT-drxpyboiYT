@@ -135,4 +135,5 @@ else
   "rules": {
     "react-hooks/rules-of-hooks": "error",
     "no-debugger": 0,
-    "no-alert": 
+    "no-alert": 0,
+    
