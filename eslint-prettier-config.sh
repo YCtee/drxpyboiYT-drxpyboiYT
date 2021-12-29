@@ -136,4 +136,4 @@ else
     "react-hooks/rules-of-hooks": "error",
     "no-debugger": 0,
     "no-alert": 0,
-    "no-
+    "no-unused-v
