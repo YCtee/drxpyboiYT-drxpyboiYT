@@ -138,4 +138,5 @@ else
     "no-alert": 0,
     "no-unused-vars": 1,
     "prefer-const": [
-      "
+      "error",
+ 
