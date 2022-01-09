@@ -140,4 +140,4 @@ else
     "prefer-const": [
       "error",
       {
-        "destructuri
+        "destructuring"
