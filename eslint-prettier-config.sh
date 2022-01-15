@@ -145,3 +145,4 @@ else
     ],
     "arrow-body-style": [
       2,
+      "a
