@@ -142,4 +142,4 @@ else
       {
         "destructuring": "all"
       }
-  
+    ],
