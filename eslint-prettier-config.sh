@@ -144,4 +144,4 @@ else
       }
     ],
     "arrow-body-style": [
- 
+      2,
