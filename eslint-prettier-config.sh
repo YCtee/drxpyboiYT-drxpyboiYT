@@ -143,3 +143,4 @@ else
         "destructuring": "all"
       }
     ],
+    "ar
