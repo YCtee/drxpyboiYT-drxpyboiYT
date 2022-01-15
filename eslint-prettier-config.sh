@@ -143,4 +143,4 @@ else
         "destructuring": "all"
       }
     ],
-    "arrow-body-
+    "arrow-body-style":
