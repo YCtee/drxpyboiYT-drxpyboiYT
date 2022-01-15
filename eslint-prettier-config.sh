@@ -143,4 +143,4 @@ else
         "destructuring": "all"
       }
     ],
-    "ar
+    "arrow-body-
