@@ -145,4 +145,4 @@ else
     ],
     "arrow-body-style": [
       2,
-      "a
+      "as-neede
