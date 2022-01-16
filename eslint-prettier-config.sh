@@ -146,4 +146,5 @@ else
     "arrow-body-style": [
       2,
       "as-needed"
-    ]
+    ],
+    "n
