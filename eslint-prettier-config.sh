@@ -147,4 +147,4 @@ else
       2,
       "as-needed"
     ],
-    "no-unused-express
+    "no-unused-expressions": 
