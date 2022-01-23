@@ -149,4 +149,4 @@ else
     ],
     "no-unused-expressions": [
       2,
-    
+      {
