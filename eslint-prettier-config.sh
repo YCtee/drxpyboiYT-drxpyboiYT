@@ -150,4 +150,5 @@ else
     "no-unused-expressions": [
       2,
       {
-        "allowTaggedTemplates": t
+        "allowTaggedTemplates": true
+ 
