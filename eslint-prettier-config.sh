@@ -152,4 +152,5 @@ else
       {
         "allowTaggedTemplates": true
       }
-  
+    ],
+   
