@@ -151,4 +151,5 @@ else
       2,
       {
         "allowTaggedTemplates": true
-      
+      }
+  
