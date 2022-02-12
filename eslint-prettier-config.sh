@@ -153,4 +153,4 @@ else
         "allowTaggedTemplates": true
       }
     ],
-    "no-par
+    "no-param-reassi
