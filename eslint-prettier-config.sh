@@ -153,4 +153,5 @@ else
         "allowTaggedTemplates": true
       }
     ],
-    "no-param-reassi
+    "no-param-reassign": [
+ 
