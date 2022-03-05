@@ -156,4 +156,4 @@ else
     "no-param-reassign": [
       2,
       {
-        "p
+        "props"
