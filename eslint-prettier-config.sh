@@ -159,4 +159,4 @@ else
         "props": false
       }
     ],
-    "n
+    "no-conso
