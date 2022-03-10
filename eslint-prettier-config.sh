@@ -159,4 +159,5 @@ else
         "props": false
       }
     ],
-    "no-conso
+    "no-console": 0,
+ 
