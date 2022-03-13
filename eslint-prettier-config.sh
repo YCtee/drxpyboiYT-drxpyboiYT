@@ -160,4 +160,4 @@ else
       }
     ],
     "no-console": 0,
-    "import/prefer
+    "import/prefer-defaul
