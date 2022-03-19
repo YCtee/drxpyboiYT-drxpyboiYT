@@ -163,3 +163,4 @@ else
     "import/prefer-default-export": 1,
     "import": 0,
     "func-names": 0,
+    "s
