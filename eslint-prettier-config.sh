@@ -163,4 +163,4 @@ else
     "import/prefer-default-export": 1,
     "import": 0,
     "func-names": 0,
-    "space-before-function-p
+    "space-before-function-paren
