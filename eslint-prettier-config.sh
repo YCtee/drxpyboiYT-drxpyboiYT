@@ -164,4 +164,4 @@ else
     "import": 0,
     "func-names": 0,
     "space-before-function-paren": 0,
-    "comma-d
+    "comma-dangle": 0,
