@@ -166,4 +166,5 @@ else
     "space-before-function-paren": 0,
     "comma-dangle": 0,
     "max-len": 0,
-    "import/extensions":
+    "import/extensions": 0,
+   
