@@ -167,4 +167,5 @@ else
     "comma-dangle": 0,
     "max-len": 0,
     "import/extensions": 0,
-    "no-underscore-dang
+    "no-underscore-dangle": 0,
+  
