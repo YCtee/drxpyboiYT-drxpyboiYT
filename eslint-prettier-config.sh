@@ -169,4 +169,5 @@ else
     "import/extensions": 0,
     "no-underscore-dangle": 0,
     "consistent-return": 0,
-    "react/display-name": 
+    "react/display-name": 1,
+    "r
