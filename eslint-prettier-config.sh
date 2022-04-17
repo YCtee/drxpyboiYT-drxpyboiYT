@@ -170,4 +170,4 @@ else
     "no-underscore-dangle": 0,
     "consistent-return": 0,
     "react/display-name": 1,
-    "react/no
+    "react/no-array
