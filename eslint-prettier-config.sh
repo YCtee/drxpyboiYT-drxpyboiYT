@@ -170,4 +170,5 @@ else
     "no-underscore-dangle": 0,
     "consistent-return": 0,
     "react/display-name": 1,
-    "react/no-array-index-key": 
+    "react/no-array-index-key": 0,
+    
