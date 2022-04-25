@@ -171,4 +171,4 @@ else
     "consistent-return": 0,
     "react/display-name": 1,
     "react/no-array-index-key": 0,
-    "react/react-in-jsx-
+    "react/react-in-jsx-scope": 
