@@ -172,4 +172,5 @@ else
     "react/display-name": 1,
     "react/no-array-index-key": 0,
     "react/react-in-jsx-scope": 0,
-    "react/prefer-stateless-function": 
+    "react/prefer-stateless-function": 0,
+    "re
