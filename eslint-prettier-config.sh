@@ -175,4 +175,4 @@ else
     "react/prefer-stateless-function": 0,
     "react/forbid-prop-types": 0,
     "react/jsx-props-no-spreading": 0,
-    "react/no-unescaped-e
+    "react/no-unescaped-entitie
