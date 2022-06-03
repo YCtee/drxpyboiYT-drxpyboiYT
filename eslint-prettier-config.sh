@@ -176,4 +176,4 @@ else
     "react/forbid-prop-types": 0,
     "react/jsx-props-no-spreading": 0,
     "react/no-unescaped-entities": 0,
-    "jsx-a11y/acces
+    "jsx-a11y/accessible-emoj
