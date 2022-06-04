@@ -177,4 +177,4 @@ else
     "react/jsx-props-no-spreading": 0,
     "react/no-unescaped-entities": 0,
     "jsx-a11y/accessible-emoji": 0,
-    "react/re
+    "react/require
