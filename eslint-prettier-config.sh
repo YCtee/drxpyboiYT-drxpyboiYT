@@ -181,4 +181,4 @@ else
     "react/jsx-filename-extension": [
       1,
       {
-        "ex
+        "extensio
