@@ -181,4 +181,5 @@ else
     "react/jsx-filename-extension": [
       1,
       {
-        "extensions"
+        "extensions": [
+    
