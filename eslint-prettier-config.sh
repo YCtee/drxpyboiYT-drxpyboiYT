@@ -182,4 +182,5 @@ else
       1,
       {
         "extensions": [
-          
+          ".js",
+ 
