@@ -183,4 +183,4 @@ else
       {
         "extensions": [
           ".js",
-          
+          ".jsx"
