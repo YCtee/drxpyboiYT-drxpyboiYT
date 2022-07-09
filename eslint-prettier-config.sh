@@ -188,3 +188,4 @@ else
       }
     ],
     "radix": 0,
+    "no-sh
