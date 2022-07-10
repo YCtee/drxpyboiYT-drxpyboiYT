@@ -188,4 +188,4 @@ else
       }
     ],
     "radix": 0,
-    "no-sh
+    "no-shadow": "
