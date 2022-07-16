@@ -189,4 +189,4 @@ else
     ],
     "radix": 0,
     "no-shadow": "off",
-    "quo
+    "quotes": [
