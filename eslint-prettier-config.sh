@@ -190,3 +190,4 @@ else
     "radix": 0,
     "no-shadow": "off",
     "quotes": [
+      2,
