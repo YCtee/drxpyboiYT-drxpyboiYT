@@ -191,4 +191,5 @@ else
     "no-shadow": "off",
     "quotes": [
       2,
-      "single
+      "single",
+      
