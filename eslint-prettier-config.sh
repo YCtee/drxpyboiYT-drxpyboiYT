@@ -192,4 +192,5 @@ else
     "quotes": [
       2,
       "single",
+      {
       
