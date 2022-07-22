@@ -193,4 +193,5 @@ else
       2,
       "single",
       {
-        "avoidEscape": 
+        "avoidEscape": true,
+ 
