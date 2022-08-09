@@ -194,4 +194,4 @@ else
       "single",
       {
         "avoidEscape": true,
-        "allowTemplateLite
+        "allowTemplateLiterals
