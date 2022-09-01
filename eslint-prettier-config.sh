@@ -197,4 +197,4 @@ else
         "allowTemplateLiterals": true
       }
     ],
-    "pre
+    "prettier/
