@@ -197,4 +197,4 @@ else
         "allowTemplateLiterals": true
       }
     ],
-    "prettier/pretti
+    "prettier/prettier": [
