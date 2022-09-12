@@ -198,4 +198,5 @@ else
       }
     ],
     "prettier/prettier": [
-      "err
+      "error",
+  
