@@ -200,4 +200,5 @@ else
     "prettier/prettier": [
       "error",
       {
-        "trailingComma": "'${trailing_comma_pref
+        "trailingComma": "'${trailing_comma_pref}'",
+ 
