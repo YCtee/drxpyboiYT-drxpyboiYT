@@ -201,4 +201,5 @@ else
       "error",
       {
         "trailingComma": "'${trailing_comma_pref}'",
-        "singleQuote": true
+        "singleQuote": true,
+     
