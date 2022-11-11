@@ -202,4 +202,4 @@ else
       {
         "trailingComma": "'${trailing_comma_pref}'",
         "singleQuote": true,
-        "printWidth":
+        "printWidth": '${max_len_v
