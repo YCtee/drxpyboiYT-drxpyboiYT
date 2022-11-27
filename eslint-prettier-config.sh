@@ -203,3 +203,4 @@ else
         "trailingComma": "'${trailing_comma_pref}'",
         "singleQuote": true,
         "printWidth": '${max_len_val}'
+      
