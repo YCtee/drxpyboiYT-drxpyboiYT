@@ -204,4 +204,4 @@ else
         "singleQuote": true,
         "printWidth": '${max_len_val}'
       }
-  
+    ],
