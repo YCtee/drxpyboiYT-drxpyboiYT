@@ -205,4 +205,4 @@ else
         "printWidth": '${max_len_val}'
       }
     ],
-    "jsx-a11
+    "jsx-a11y/h
