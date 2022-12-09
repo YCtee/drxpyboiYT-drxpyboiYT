@@ -205,4 +205,4 @@ else
         "printWidth": '${max_len_val}'
       }
     ],
-    "jsx-a11y/h
+    "jsx-a11y/href-no-ha
