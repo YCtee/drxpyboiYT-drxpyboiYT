@@ -206,4 +206,4 @@ else
       }
     ],
     "jsx-a11y/href-no-hash": "off",
-    "jsx-a11
+    "jsx-a11y/anc
