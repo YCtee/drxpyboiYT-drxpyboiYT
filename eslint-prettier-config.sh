@@ -210,4 +210,4 @@ else
       "warn",
       {
         "aspects": [
-          "i
+          "invalid
