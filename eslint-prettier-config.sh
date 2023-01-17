@@ -217,4 +217,5 @@ else
   },
   "plugins": [
     "prettier",
-    "r
+    "react",
+  
