@@ -218,4 +218,5 @@ else
   "plugins": [
     "prettier",
     "react",
-    "react-ho
+    "react-hooks"
+ 
