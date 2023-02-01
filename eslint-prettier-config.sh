@@ -219,4 +219,5 @@ else
     "prettier",
     "react",
     "react-hooks"
- 
+  ]
+}' >
