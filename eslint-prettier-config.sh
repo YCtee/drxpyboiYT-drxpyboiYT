@@ -220,4 +220,4 @@ else
     "react",
     "react-hooks"
   ]
-}' >> .eslintrc${co
+}' >> .eslintrc${config_exte
