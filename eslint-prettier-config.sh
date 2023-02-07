@@ -223,4 +223,5 @@ else
 }' >> .eslintrc${config_extension}
 fi
 
-ec
+echo
+ech
