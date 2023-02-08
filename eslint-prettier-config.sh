@@ -224,4 +224,4 @@ else
 fi
 
 echo
-ech
+echo -e "${G
