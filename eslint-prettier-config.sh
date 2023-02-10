@@ -224,4 +224,4 @@ else
 fi
 
 echo
-echo -e "${GREEN}Fin
+echo -e "${GREEN}Finished
