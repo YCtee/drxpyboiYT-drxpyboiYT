@@ -224,4 +224,4 @@ else
 fi
 
 echo
-echo -e "${GREEN}Finished settin
+echo -e "${GREEN}Finished setting up!$
