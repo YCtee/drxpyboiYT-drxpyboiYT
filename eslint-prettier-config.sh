@@ -224,4 +224,4 @@ else
 fi
 
 echo
-echo -e "${GREEN}Finished setting up!$
+echo -e "${GREEN}Finished setting up!${NC
