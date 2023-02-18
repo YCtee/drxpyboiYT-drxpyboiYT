@@ -225,4 +225,4 @@ fi
 
 echo
 echo -e "${GREEN}Finished setting up!${NC}"
-echo -e "${GREEN}H
+echo -e "${GREEN}Happy c
