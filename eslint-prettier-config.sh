@@ -225,4 +225,4 @@ fi
 
 echo
 echo -e "${GREEN}Finished setting up!${NC}"
-echo -e "${GREEN}Happy coding! - V
+echo -e "${GREEN}Happy coding! - Vikas
